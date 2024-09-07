@@ -1,0 +1,27 @@
+#container {
+	margin-top: 100px;
+	margin-left: 1200px;
+	width: 500px;
+	height: 500px;
+	border-radius: 100px;
+	border: 2px double black;
+	background: yellow;
+	text-align: center;
+}
+h1 {
+	margin-top: 70px;
+	font-size: 5em;
+}
+.accent {
+	font-size: 5em;
+	color: red;
+	font-weight: bold;
+}
+body {
+	background: url(https://cdn.pixabay.com/photo/2018/01/17/18/43/book-3088775_1280.jpg);
+	background-size: cover;
+}
+p {
+	font-size: 18px;
+	font-weight: bold;
+}
